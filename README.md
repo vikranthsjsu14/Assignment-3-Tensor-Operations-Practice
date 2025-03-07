@@ -3,5 +3,5 @@
 2. https://colab.research.google.com/drive/1JqOG4HoiLjsLvVx4y3Okm7iu0-kFImOa?usp=sharing
 
 youtube links:
-1. 
-2. 
+1. https://youtu.be/cydob6Kyevc
+2. https://youtu.be/hx48xHz-v8A
